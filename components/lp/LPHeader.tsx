@@ -7,8 +7,8 @@ export default function LPHeader() {
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rogo-ZiOZQ8QjHhghKzah67lxuZd5mVu409.jpg"
           alt="AIZU BRAND HALL ロゴ"
-          width={56}
-          height={56}
+          width={67}
+          height={67}
           className="rounded"
         />
       </div>
