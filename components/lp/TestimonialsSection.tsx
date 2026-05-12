@@ -49,7 +49,7 @@ export default function TestimonialsSection() {
             お客様の声
           </span>
           <h2 className="text-xl md:text-3xl font-black text-[#3D1C02] text-balance">
-            使ったら、もう戻れない。
+            使ったらもう戻れない
           </h2>
         </div>
 
